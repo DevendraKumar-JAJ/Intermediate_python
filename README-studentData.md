@@ -41,3 +41,7 @@ Do you want to search data [y/n] : y
 Based on [1 _ Name | 2 _ Roll ] 1
 Enter name to search : John
 Name : John, and Roll : 101
+
+
+### Author - 
+  * Devendra Kumar
