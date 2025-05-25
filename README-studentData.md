@@ -1,4 +1,4 @@
-### Student Management System README 📚
+### Student Management System  📚
 
 ## Overview
 This is a simple student management system implemented in Python. It allows users to create student objects, store them in a list, and search for students based on their name or roll number.
